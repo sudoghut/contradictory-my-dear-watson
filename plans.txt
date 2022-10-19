@@ -1,7 +1,10 @@
 Plan1:
-Text normal embeding
+Text embeding by bert
 Regarding two columns: premise, hypothesis as to varibles for classification
 Using train an xgboost to classify the data
 
 Plan2:
+The same as plan1, but use sentense embedding instead of bert embedding
+
+Plan3:
 Combine sentense together, using bert to predict

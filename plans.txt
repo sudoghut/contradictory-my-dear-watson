@@ -1,0 +1,7 @@
+Plan1:
+Text normal embeding
+Regarding two columns: premise, hypothesis as to varibles for classification
+Using train an xgboost to classify the data
+
+Plan2:
+Combine sentense together, using bert to predict
